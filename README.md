@@ -60,4 +60,4 @@ typing module (standard from Python 3.5+)
 to run the code: `python3 ./solution.py`
 
 ### 📄 License
-This code is based on the Palindrome problem from LeetCode and is for learning purposes only.
+This code is based on the Roman to integer problem from LeetCode and is for learning purposes only.
